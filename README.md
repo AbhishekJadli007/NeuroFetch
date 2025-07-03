@@ -68,6 +68,10 @@ pip install -r requirements.txt
 
 This will start the React frontend, Node.js backend, Flask API, and MCP server all together:
 
+-First , change directory to neurofetch folder
+```sh
+cd neurofetch
+```
 ```sh
 npm run dev:all
 ```
@@ -77,10 +81,9 @@ npm run dev:all
 - Flask API: [http://localhost:5000](http://localhost:5000)
 - MCP server: (Python, port as configured)
 
+Refer Package.json in neurofetch folder.
 ---
-```sh
-cd neurofetch
-```
+
 ### **Run Each Service Separately**
 
 **Frontend (React):**
