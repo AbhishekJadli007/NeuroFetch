@@ -78,7 +78,9 @@ npm run dev:all
 - MCP server: (Python, port as configured)
 
 ---
-
+```sh
+cd neurofetch
+```
 ### **Run Each Service Separately**
 
 **Frontend (React):**
