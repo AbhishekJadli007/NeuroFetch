@@ -1,0 +1,17 @@
+flask
+requests
+langchain
+langchain-community
+langchain-ollama
+langgraph
+faiss-cpu
+PyPDF2
+pandas
+tqdm
+uvicorn
+fastapi
+python-dotenv
+mcp
+camelot-py
+pdfplumber
+streamlit
