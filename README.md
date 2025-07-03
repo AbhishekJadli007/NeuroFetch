@@ -6,7 +6,7 @@ NeuroFetch is a modern, full-stack AI-powered document understanding and retriev
 
 ## Features
 
-- **Modern React + Vite Frontend**: Beautiful, responsive UI with chat and document upload.
+- **Modern React + Vite Frontend**: Responsive UI with chat and document upload.
 - **Node.js/Express Backend**: Handles authentication, user management, and API endpoints.
 - **Python Flask API**: Orchestrates document processing and LLM-powered chat.
 - **MCP Server (Python)**: Handles advanced document parsing, table extraction, and agent logic.
@@ -234,8 +234,7 @@ NeuroFetch also includes a standalone Streamlit app (`pdfbot.py`) for interactiv
 - Process and chunk documents for retrieval
 - Chat with your documents using LLM-powered Q&A
 - Extract tables and chat logs from PDFs
-- See responses in a modern chat UI with emoji avatars (🤖 for bot, 🧑 for user)
-- Enjoy a beautiful interface styled with `streamlit_custom.css` (matching the main app theme)
+- Interface styled with `streamlit_custom.css` (matching the main app theme)
 
 ### How to Use PDFBot
 
